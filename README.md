@@ -137,7 +137,8 @@ python manage.py runserver
 ```
 
 * Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) for the user interface
-**If error accour because of link overlap than you can use**
+  
+**If error occur, because of link overlap in eachother than you can use**
 **http://127.0.0.1:8001**
 ---
 
