@@ -1,4 +1,4 @@
-![Screenshot 2025-05-08 000030](https://github.com/user-attachments/assets/9b163275-06b4-48b6-88f6-660bc06d8582)# 🏏 IPL Match Prediction System
+# 🏏 IPL Match Prediction System
 
 This project is a comprehensive AI-based prediction platform for Indian Premier League (IPL) cricket matches. It leverages both machine learning models and local Large Language Models (LLMs) to offer two key features:
 
