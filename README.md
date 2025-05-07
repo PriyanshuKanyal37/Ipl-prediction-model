@@ -8,7 +8,7 @@ This project is a comprehensive AI-based prediction platform for Indian Premier 
 
 It is built using **FastAPI** for the backend and **Django** with **Bootstrap 5** for the frontend.
 
-ScreenShot of Project
+## ScreenShot of Project
 
 ![Screenshot 2025-05-07 235957](https://github.com/user-attachments/assets/8eabb953-2a4b-4b6f-8b51-bde98bd3bc74)
 
